@@ -1,0 +1,13 @@
+A user is using a weather app , the clerk is a weather assistant
+Seeking recommendations: User asks for book recommendations within a specific genre (e.g., "Suggest some funny fantasy books").
+Humorous exchange: User requests a joke or a funny story.
+Philosophy and fun: User poses a lighthearted philosophical question (e.g., "If a tree falls in the forest and no one's around, does it make a sound?").
+Mood boost: User expresses a negative emotion and asks for something uplifting (e.g., "I'm bored. Can you tell me something interesting?").
+Calculations: User asks to perform a calculation (e.g., "What's 25% of 180?").
+Conversions: User requests a conversion between units (e.g., "Convert 80 kilometers per hour to miles per hour").
+Problem-solving: User provides a word problem and asks for the solution (e.g., "If a train leaves Chicago at 2 PM...).
+Fun with Numbers: User asks for numerical trivia or interesting facts about numbers.
+Adjusting settings: User requests a change to smart home devices (e.g., "Dim the living room lights to 50%").
+Routines: User initiates a pre-defined routine (e.g., "Start my 'good morning' routine").
+Device status: User inquires about the status of a device or sensor (e.g., "Is the garage door closed?").
+Home security: User interacts with a smart security system (e.g., "Show me the front door camera feed").
